@@ -1,0 +1,807 @@
+﻿python : C:\Users\KRISH\Ap
+pData\Local\Programs\Pytho
+n\Python313\Lib\site-packa
+ges\fitz\__init__.py:17: 
+FutureWarning: The `fitz` 
+API is deprecated and 
+will be removed in 
+future. Use `import 
+pymupdf` instead.
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (C  
+  :\Users\KRISH\...mupd   
+ f` instead.:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+  warnings.warn(
+Pages: 10
+\n=== SLIDE 1 ===
+20-10-2026
+1
+ ISAB  GREATER NOIDA
+Knowledge Park III, Greater Noida, Uttar Pradesh
+www.isab.org.in 
+Presentation for Case Study
+Delhi Technological University
+Team Breakers
+Team Leader-Vansh Malik
+Krish Kumar 
+Anubhav Sharma 
+Prapto Sarkar
+
+\n=== SLIDE 2 ===
+Q1. How should Indogulf strengthen its brand among farmers and build a more distinctive position?
+RECOMMENDATION
+Win farmer preference with visible field proof, then reinforce it through useful local-language advice.
+Brand promise: Scientific reliability, translated into practical farmer value.
+<15%
+Farmer recall
+Current baseline
+72%
+Dealer-led choice
+Purchase influence
+92%
+WhatsApp opens
+Within 2 hours
+25–35%
+Demo conversion
+Target in brief
+01  |  THE BRAND GAP
+The channel is stronger than the
+brand.
+Dealer-led choice
+72%
+Brand recall
+<15%
+Implication: build preference beyond dealer
+recommendation
+02  |  THREE DISTINCTIVE BRAND LEVERS
+FIELD PROOF
+2,000 Krishi Mitras
+0.5-acre split demos
+10,000 plots by Month 24
+USEFUL ADVICE
+Pest, weather and spray
+guidance
+6 Indic languages
+92% opens in 2 hours
+CREDIBILITY
+6 granted patents
+97% Pyrazosulfuron
+Ethyl
+96.5% Spiromesifen
+03  |  PROVE, THEN SCALE
+Mass media
+<3%
+Field demo
+32%
+Directional evidence only: these figures measure
+different outcomes.
+EXECUTION ROADMAP  |  RECALL + FIELD-PROOF COVERAGE
+BASELINE
+<15% recall
+0 demo plots
+MONTH 6
+18% recall
+150 plots  |  6,000 reached
+MONTH 12
+25% recall
+2,500 plots  |  100,000 converted
+MONTH 24
+35%+ recall
+10,000 plots  |  50,000+ verified CRM
+VALUE CAPTURE TARGET
+Generic push: 8–10% EBITDA     |     Branded pull: 18–24% EBITDA     |     Target premium: 8–12%
+2
+
+\n=== SLIDE 3 ===
+Q2
+STRATEGIC PRIORITIZATION & CHANNEL ARCHITECTURE
+Of five alternatives, Channel Restructuring and Field Expansion receive priority to build a defensible commercial moat.
+85% Focus
+Spend on top 1,400 Key Accounts
+75%+ Volume
+Turnover in top 20% dealers
+63.6% ROI
+Yr 1 capital efficiency (vs discounts)
+25–35%
+Direct demo-to-buy conversion rate
+1. Strategic Alternatives Elimination
+Corporate Rebranding  [REJECTED]
+TV/Print ads (<3% switch) fail ₹50k crop risk.
+Standalone Mobile App  [REJECTED]
+85% 30-day churn; 32GB rural phone limits.
+Diffuse Sales Army  [REJECTED]
+Diffuse field force across 7,000 dealers bloats SG&A.
+Channel Restructure + Field  [PRIORITY #1]
+Captures 72% dealer pull & builds on-soil trust.
+2. The 'Apple Store' Retail Transformation
+Exclusive Territory Rights
+Grant top 1,400 dealers 5km radius exclusivity for 6
+patents & BioEdge biologicals.
+In-Store Diagnostic Counters
+Transform retail shops into advisory clinics with soil
+scanners & diagnostic charts.
+4% Advisory Co-Investment
+Replace unearned 12% price rebate with 4% margin
+verified via farmer QR demo scans.
+Commercial Moat Payoff: Top dealers become defensive
+moats against competitors. Exclusive margins prevent brand
+substitution and lock in 75%+ retail volume.
+3. Trade Capital Reallocation
+Working Capital Moat: Receivables drop from 75 to
+<30 days.
+Unit Economics: Replaces 12% discount with 4%
+verified margin.
+Dealer Loyalty Moat: 94% retention of Tier-1 key
+accounts.
+KEY TAKEAWAY: Channel Restructuring concentrates 85% of trade capital on the top 1,400 high-influence dealers, while Field Expansion generates the on-soil farmer demand to fill it
+(63.6% Year 1 ROI).
+3
+
+\n=== SLIDE 4 ===
+Q3
+Customer Segmentation & Data-Driven Marketing
+Use data, field insights and campaign results to target the right farmers with the right message.
+1
+Farmer Influence Score (FIS)
+Score and prioritize high-potential farmers.
+40%
+Product Innovation Adoption
+High-margin SKU adoption
+30%
+Demonstration Response
+Demo conversion rate
+30%
+Purchase Behaviour
+Cash / Carry ratio
+FIS = 0.40 A + 0.30 B + 0.30 C
+2
+Dealer Training Improves Results
+Training increases demo accuracy and conversion.
+Before Training
+After Training
+1.0
+2.0
+3.0
+0
+20
+40
+60
+80
+100
+Demo-to-Buy Conversion (%)
+34.0
+81.0
+12.0
+35.0
+18.0
+46.0
+3 Farmer Segments & Targeted Approach
+Different needs, targeted messaging and offers.
+Segment
+Share
+Key Profile
+Marketing
+Channel
+Early Adopters
+20%
+> 5 acres
+High
+performance
+Demos +
+WhatsApp
+ Yield
+Maximizers
+60%
+2–5 acres
+High yield &
+cost efficiency
+Seasonal campaigns
++ Dealer programs
+Risk
+Smallholders
+20%
+< 2 acres
+Low risk &
+trusted advice
+Local Krishi Mitra
++ Dealer credit
+4 Data-Driven Marketing Execution
+1. Data Collection
+Dealer data
+Farmer feedback
+Campaign response
+2. FIS & Segmentation
+Calculate FIS
+Create 3 segments
+Identify top districts
+3. Targeted Campaigns
+WhatsApp advisories
+Demo offers
+Crop-based content
+4. Real-Time Optimization
+Track QR conversions
+Compare districts
+Shift budget to top
+segments
+District-wise Marketing Comparison
+Before
+After
+1.0
+2.0
+3.0
+4.0
+0
+10
+20
+30
+40
+Conversion
+Rate (%)
+12.0
+35.0
+8.0
+28.0
+10.0
+32.0
+11.0
+30.0
+Targeted Budget Reallocation
+₹100
+Marketing
+Budget
+Progressive Innovators
+(High ROI)
+Core Yield Maximizers
+(Stable ROI)
+Risk-Averse Smallholders
+(Nurture)
+Expected Impact (12–24 Months)
+2 to 3×
+Higher demo-to-buy conversion
++25–30%
+Better marketing ROI
++15–20%
+Increase in repeat purchases
++20%
+More efficient marketing spend
+5
+6
+7
+
+\n=== SLIDE 5 ===
+Q4 LOW-COST INNOVATIONS FOR MEASURABLE & SCALABLE FIELD MARKETING
+High-impact, low-cost initiatives to drive farmer reach, adoption and scale across the distribution network
+60–70%
+Lower Marketing Cost
+vs. Mass Media / Traditional
+Rallies
+3–5x
+Farmer Reach
+Per ₹1 Spend
+25–35%
+Demo-to-Buy Conversion
+(Proven in Pilot Markets)
+Scalable
+Across 1,400 Key Dealers
+with Minimal Capex
+1. LOW-COST FIELD MARKETING INITIATIVES
+2. SCALABLE EXECUTION MODEL
+3. IMPACT & SCALABILITY
+1
+Village Demonstration Plots
+0.5-acre side-by-side trials
+Run with Krishi Mitras & progressive
+farmers
+2
+Krishi Mitra Network
+Local farmer champions (no fixed salary)
+Incentivized with product support &
+recognition
+3
+WhatsApp Advisory & Alerts
+Crop-stage advice, pest alerts, spray charts
+6 Indic languages | 92% open rate
+4
+On-Dealer Activation Kits
+Low-cost demo kits, crop posters, QR leaflets
+Co-branded with top 1,400 key dealers
+5
+Digital Farmer Education
+Short vernacular videos
+(YouTube/WhatsApp)
+Farmer testimonials from real fields
+Continuous
+Feedback
+from Farmers
+& Dealers
+Select High-Potential Villages
+via Dealer Data
+(Crop mix + Farmer profiles)
+Conduct Demos with Krishi
+Mitras
+(0.5-acre split plots)
+Share Advisory & Results
+(WhatsApp + Local Events)
+Track Conversions
+(QR codes at dealer level)
+Scale to More
+Villages/Dealers
+(Based on ROI & FIS score)
+Demo-to-Buy Conversion Rate
+Farmer Reach per ₹1 Spend
+Cost per Farmer Reached (₹)
+Why It Scales Across 1,400
+Dealers?
+1.0
+2.0
+0
+10
+20
+30
+40
+10.0
+30.0
+1.0
+2.0
+0
+1000
+2000
+3000
+4000
+800.0
+3000.0
+1.0
+2.0
+0
+50
+100
+150
+200
+150.0
+40.0
+60 to 70%
+Uses existing dealer network
+Low incremental cost
+Replicable demo format
+WhatsApp works nationwide
+Data-driven targeting (FIS)
+High ROI → easy dealer
+adoption
+5
+Low-cost, high-impact initiatives like demo plots, Krishi Mitras and WhatsApp advisory make field marketing measurable, far more efficient and easily
+scalable across Indogulf’s 1,400-dealer network.
+KEY TAKEAWAY:
+
+\n=== SLIDE 6 ===
+Q5
+GAP ANALYSIS & 90-DAY ACTION PLAN
+Identify key gaps in the current marketing approach and a focused 90-day strategy to drive early impact
+1. CURRENT vs IDEAL: KEY GAPS
+2. IMPACT OF CLOSING THESE GAPS
+3. PRIORITY FOCUS  (NEXT 90
+DAYS)
+Area
+Current Approach (Gap)
+Impact
+Targeting
+Broad Marketing(Brand
+recall <15%)
+Low ROI
+Field
+Activities
+Limited demos & field
+presence
+Low trial 
+Digital
+Engagement
+No WhatsApp CRM; weak
+farmer engagement
+Missed repeat
+purchases
+Dealer Focus 7,000 dealers; weak top-20%
+focus
+High cost, low
+efficiency
+Product
+Messaging
+Generic messaging; weak
+patent visibility
+Weak
+differentiation
+1
+Focus on high-potential districts (Top
+20% dealers & crops)
+2
+Krishi Mitra-led split-plot demos (0.5-
+acre split plots)
+3
+Launch WhatsApp advisories in 6
+Indic languages
+4
+Low-cost dealer kits with demos, crop
+guides & QR leaflets
+5
+Track QR results & shift spend to top
+regions
+4. 90-DAY IMPLEMENTATION PLAN
+Phase 1: Setup (Days 1–30)
+1.  Analyse dealer & farmer data (FIS) to select 3–5
+pilot districts
+2.  Onboard Krishi Mitras and train dealers (structured
+agronomic training)
+3.  Prepare low-cost demo kits & communication
+material (QR leaflets, posters)
+4.  Set up WhatsApp advisory templates (pest alerts,
+spray charts, crop tips)
+Phase 2: Execution (Days 31–60)
+Run 150+ village demonstration plots (0.5-acre
+split trials)
+Execute localized WhatsApp campaigns and field
+events
+Track farmer engagement and conversions via
+unique QR codes (dealer-wise)
+Monitor results weekly and optimize messaging
+(crop & region specific)
+Phase 3: Scale (Days 61–90)
+1. Expand to additional districts based on pilot learnings
+2. Scale successful campaigns across top 20% high-
+influence dealers (~1,400)
+3. Refine offers and advisory content based on farmer
+feedback
+4.Build repeat purchase programs and long-term farmer
+cohorts
+KEY TAKEAWAY:
+By addressing key gaps through a focused 90-day plan, Indogulf can quickly build farmer awareness, drive measurable conversions and create a scalable, data-
+driven field marketing model.
+6
+
+\n=== SLIDE 7 ===
+Q6
+COMMUNICATING THE VALUE OF BIOLOGICAL PRODUCTS
+Evidence-based, farmer-centric communication to build trust without making unverified claims
+From Claims to Crop Outcomes
+Real data. Real farmers. Real impact.
+1
+COMMUNICATION GUIDING PRINCIPLES
+Trust through evidence, compliance and farmer
+value
+2
+VALUE LEVERS & MESSAGING FRAMEWORK
+Translate science into clear farmer benefits
+3 INTEGRATED COMMUNICATION CHANNELS
+Low-cost, high-trust, high-reach
+EVIDENCE-BASED
+Use company trial data, ICAR/third-party studies and
+verified field results.
+COMPLIANT & FACTUAL
+Align with CIB&RC / PPV&FRA guidelines. No unverified
+yield / sustainability claims.
+FARMER-CENTRIC BENEFITS
+Communicate clear, practical value: healthier soil, lower
+chemical dependence, higher crop resilience.
+SIMPLE & LOCALIZED
+Use local language, crop-specific examples and visual
+before-after proof (not technical jargon).
+Value Lever
+(What to Highlight)
+Key Message
+(How to Communicate)
+Proof Point
+(What to Show)
+Farmer Benefit
+(Outcome)
+Soil & Crop
+Health
+Restores soil
+microbial balance
+Multi-location
+field trials
+Long-term
+productivity
+Effective Pest
+Management
+Biological mode
+of action reduces
+pest incidence
+% reduction in
+pest incidence
+(from trials)
+Lower chemical
+usage &
+resistance risk
+Environmental
+Safety
+Biodegradable &
+non-toxic for
+beneficial insects
+Third-party lab
+reports & regulatory
+approvals
+Safer for soil,
+water and
+beneficial insects
+Economic Value
+Comparable or
+better yield with
+lower input load
+Farmer
+testimonials + trial
+yield data
+Better quality
+produce & higher
+net returns
+On-Field Demonstrations
+0.5-acre side-by-side plots at village level
+Visual proof
+builds trust
+Krishi Mitra & Farmer
+Testimonials
+Real farmer experiences from local regions
+Peer-to-peer
+credibility
+WhatsApp Advisory Content
+Short videos, crop stage guides, pest alerts (6
+Indic languages)
+Timely &
+personalized advisory
+Dealer Education Programs
+Product training kits, FAQs, scientific leaflets
+Aligned &
+knowledgeable
+dealer network
+Digital & Print Content
+Short vernacular videos, infographics, local
+success stories
+Scalable and
+low-cost reach
+4 HOW TO SHOW REAL RESULTS (NOT CLAIMS)
+Use field data and farmer stories to demonstrate value
+5
+SAMPLE MESSAGING (SAFE & COMPLIANT)
+Focus on facts, not hyperbole
+Pest Incidence Reduction (Field Trial Example)
+Untreated (Control)
+Indogulf Biological + IPM
+1.0
+2.0
+0
+20
+40
+60
+80
+100
+Pest Incidence
+(%)
+68.0
+28.0
+72.0
+31.0
+-59%
+-57%
+Yield & Quality Improvement
+(Multi-location Trials, 2024–25)
+Yield Increase
+Better Quality Produce
+1.0
+2.0
+0
+5
+10
+15
+20
+25
+30
+Yield (q/acre)
+18.0
+22.5
+1.0
+2.0
+0
+10
+20
+30
+40
+50
+60
+Marketable Grade
+(%)
+36.0
+50.0
++22 to 28%
++8 to 12 pp
+AVOID (Unsupported Claims)
+100% organic and chemical-free
+Guaranteed 50% higher yield
+Completely eliminates all pests
+No side effects at all
+Works in all crops and conditions
+USE INSTEAD (Credible)
+Supports soil microbial health 
+Delivers 10–18% higher yield
+Reduces pest incidence by ~50–60%
+Biodegradable,safer for insects
+Effective when used as part of
+Integrated Pest Management (IPM)
+KEY TAKEAWAY:
+Communicate biological products through evidence-based, compliant and farmer-focused messaging, using field demonstrations, real data and local testimonials to build
+trust without making unverified performance or sustainability claims.
+7
+
+\n=== SLIDE 8 ===
+Q7
+BRAND ARCHITECTURE & VALUATION MULTIPLE EXPANSION
+Evaluating masterbrand vs product-line branding: Deploying a Hybrid Endorsed Architecture to maximize P/E multiple.
+Hybrid Endorsed
+Corporate Trust + Hero Product Pull
+60% Focus
+Spend on 4 High-Margin Hero
+Brands
+13x ➔ 22x P/E
+Multiple re-rating to specialty tier
+₹1,837 Cr
+Target market cap (4.9x in 3 yrs)
+1. Architecture Model Trade-Offs
+Pure Masterbrand [REJECTED]
+High dilution across 100+ generic SKUs; commoditizes premium
+biologicals; farmers buy pest remedies, not corporate brands.
+House of Brands [REJECTED]
+Prohibitively expensive (₹25+ Cr SG&A); fragments small budget;
+destroys corporate R&D and manufacturing credibility.
+Hybrid Endorsed Model [RECOMMENDED]
+'Hero Brand by Indogulf'. Captures corporate ISO/patent trust while
+building pricing power for flagship molecules.
+2. 3-Tier Portfolio Hierarchy
+Tier 1: Corporate Masterbrand
+INDOGULF CROPSCIENCES: Institutional Trust & 4 ISO
+Plants
+Tier 2: 4 Flagship Hero Brands (60% Spend)
+PyraStar (Patented Rice), SpiroMax (Mites), Force (Protection)
+Tier 3: BioEdge Specialty Umbrella (25% Spend)
+19 Biological SKUs (55–60% gross margin) for
+export/horticulture
+3. Public Valuation Expansion
+Multiple Expansion: Margin shifts from 11.2% to 18.5%,
+triggering 13x ➔ 22x P/E.
+Peer Parity Benchmark: Specialty agri-tech peers
+command 22–26x P/E multiples.
+3-Year Market Cap: Expands from ₹375 Cr to ₹1,837 Cr
+(4.9x enterprise value).
+KEY TAKEAWAY: The Hybrid Endorsed Architecture protects Indogulf's corporate credibility while creating focused brand pull for 4 Hero Brands and BioEdge, driving a 4.9x market cap
+expansion from 13x to 22x P/E.
+8
+
+\n=== SLIDE 9 ===
+APPENDIX  |  RESEARCH & ANALYTICAL INSIGHTS
+Brand economics  •  Channel strategy  •  Field activation  •  Biologicals  •  Financial outlook
+A1
+COMPANY BASELINE & CAPABILITY
+₹621.15 Cr
+FY25 revenue
++8.6% YoY
+₹555.70 Cr
+Domestic core
+89.5% of revenue
+−12.7%
+Export change
+Contraction cited
+Domestic core share of FY25 revenue
+89.5%
+Domestic 89.5%
+Balance 10.5%*
+4 ISO plants   •   20 acres   •   6 granted patents
+Molecules: Pyrazosulfuron Ethyl 97% | Spiromesifen 96.5%
+A2
+FARMER BRAND SIGNAL & FIELD PROOF
+Brand recall
+<15%
+Dealer choice
+72%
+Influence on brand switches
+Mass media
+<3%
+On-soil demos
+32%
+2,000 Krishi Mitras  •  0.5-acre split demos
+M6: 18% recall / 150 plots  •  M12: 25% / 2,500 plots
+M24: 35%+ recall / 10,000 plots  •  100k conversions & 50k+ CRM cited
+A3
+PHYGITAL UNIT ECONOMICS
+Cost per farmer contact
+Traditional
+₹280
+Phygital
+₹30
+Conversion rate
+Traditional
+3–5%
+Phygital
+25–35%
+92% WhatsApp opens in 2h  •  6 languages  •  45-sec QR reels
+Reach: 2,500 → 25,000  •  Retention: 15% app → 65%+ WhatsApp cited
+A4
+CHANNEL ARCHITECTURE & SEGMENTATION
+7,000
+Total dealers
+1,400
+Top 20%
+Key accounts
+75%+
+Volume share
+Top tier cited
+Dealer network
+20% priority
+80% long tail
+Farmer Influence Score (FIS)
+High-margin SKU adoption
+40%
+Demo conversion
+30%
+Cash-and-carry ratio
+30%
+Farmers: 20% innovators  |  60% yield maximizers  |  20% smallholders
+Training 34% → 81%  •  Spend 85/15  •  Rebate 12% → 4%  •  Receivables 75d →
+<30d
+A5
+PILOT PLAN & BIOEDGE ECONOMICS
+₹3.5 Cr
+Pilot budget
+<13% marketing spend
+500
+Dealers
+Pilot cohort
+150
+Demo plots
+Target by day 60
+90-day sequence
+DAYS 1–30
+Audit 7,000 dealers
+Select top 500
+DAYS 31–60
+Certify Saathis
+Open 150 demos
+DAYS 61–90
+6,000 profiles
+Measure conversion
+Scale gate: >20% demo conversion  •  >75% dealer retention
+BioEdge: 55–60% gross margin vs 35% generic chemicals  •  14.2% category CAGR
+cited
+Per acre: ₹850 treatment | ₹1,200 spray savings + ₹3,800 price lift = ₹5,000 gross
+benefit; ₹4,150 surplus after treatment. Brief’s 5.88× is gross benefit ÷ cost, not net
+ROI.
+A6
+BRAND ARCHITECTURE & FINANCIAL OUTLOOK
+829
+Portfolio SKUs
+Source-brief count
+3–4
+Hero brands
+Recommended focus
+60%
+Marketing spend
+To hero brands
+Revenue trajectory (₹ Cr)
+500
+1000
+621.1
+FY25
+711.2
+Y1
+821.2
+FY28E
+961.2
+FY29E
+EBITDA margin   9.36% → 13.90%    •    PAT ₹28.9 → ₹83.5 Cr
+P/E: 13× → 22×    •    Market cap: ₹375 → ₹560 → ₹1,080 → ₹1,837 Cr
+
+\n=== SLIDE 10 ===
+9
+THANK YOU
+
